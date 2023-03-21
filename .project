@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Journey_To_Java</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/BACK_STILL.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/CHARACTER/BACK_STILL.png</location>
+		</link>
+		<link>
+			<name>src/BACK_WALKING1.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/CHARACTER/BACK_WALKING1.png</location>
+		</link>
+		<link>
+			<name>src/BACK_WALKING2.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/CHARACTER/BACK_WALKING2.png</location>
+		</link>
+		<link>
+			<name>src/CLASS1.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/UNF MAP/CLASS1.png</location>
+		</link>
+		<link>
+			<name>src/CLASS2.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/UNF MAP/CLASS2.png</location>
+		</link>
+		<link>
+			<name>src/DREAM1.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/UNF MAP/DREAM1.png</location>
+		</link>
+		<link>
+			<name>src/DREAM2.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/UNF MAP/DREAM2.png</location>
+		</link>
+		<link>
+			<name>src/END1.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/END1.png</location>
+		</link>
+		<link>
+			<name>src/END2.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/END2.png</location>
+		</link>
+		<link>
+			<name>src/END3.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/END3.png</location>
+		</link>
+		<link>
+			<name>src/END4.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/END4.png</location>
+		</link>
+		<link>
+			<name>src/END5.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/END5.png</location>
+		</link>
+		<link>
+			<name>src/FRONT_STILL.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/CHARACTER/FRONT_STILL.png</location>
+		</link>
+		<link>
+			<name>src/FRONT_WALKING1.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/CHARACTER/FRONT_WALKING1.png</location>
+		</link>
+		<link>
+			<name>src/FRONT_WALKING2.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/CHARACTER/FRONT_WALKING2.png</location>
+		</link>
+		<link>
+			<name>src/GHANDI1.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/UNF MAP/GHANDI1.png</location>
+		</link>
+		<link>
+			<name>src/GHANDI2.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/UNF MAP/GHANDI2.png</location>
+		</link>
+		<link>
+			<name>src/J2J1.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/J2J1.png</location>
+		</link>
+		<link>
+			<name>src/J2J2.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/J2J2.png</location>
+		</link>
+		<link>
+			<name>src/J2J3.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/J2J3.png</location>
+		</link>
+		<link>
+			<name>src/J2J4.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/J2J4.png</location>
+		</link>
+		<link>
+			<name>src/JAVAMUSIC.wav</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/GAME_MUSIC/JAVAMUSIC.wav</location>
+		</link>
+		<link>
+			<name>src/LEFT_STILL.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/CHARACTER/LEFT_STILL.png</location>
+		</link>
+		<link>
+			<name>src/LEFT_WALKING1.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/CHARACTER/LEFT_WALKING1.png</location>
+		</link>
+		<link>
+			<name>src/LEFT_WALKING2.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/CHARACTER/LEFT_WALKING2.png</location>
+		</link>
+		<link>
+			<name>src/LOADING1COIN.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/LOADING1COIN.png</location>
+		</link>
+		<link>
+			<name>src/LOADING2COIN.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/LOADING2COIN.png</location>
+		</link>
+		<link>
+			<name>src/LOADING3COIN.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/LOADING3COIN.png</location>
+		</link>
+		<link>
+			<name>src/LOADINGEMPTY.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/LOADINGEMPTY.png</location>
+		</link>
+		<link>
+			<name>src/LOADINGFRAME.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/LOADINGFRAME.png</location>
+		</link>
+		<link>
+			<name>src/LOADINGFRAME1.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/LOADINGFRAME1.png</location>
+		</link>
+		<link>
+			<name>src/LOADINGFRAME2.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/LOADINGFRAME2.png</location>
+		</link>
+		<link>
+			<name>src/LOADINGFRAME3.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/LOADINGFRAME3.png</location>
+		</link>
+		<link>
+			<name>src/LOADINGPAC1.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/LOADINGPAC1.png</location>
+		</link>
+		<link>
+			<name>src/LOADINGPAC2.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/LOADINGPAC2.png</location>
+		</link>
+		<link>
+			<name>src/LOADINGPAC3.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/LOADINGPAC3.png</location>
+		</link>
+		<link>
+			<name>src/LOADINGPAC4.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/MESSAGE_SCREENS/LOADINGPAC4.png</location>
+		</link>
+		<link>
+			<name>src/MIDDLE1.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/UNF MAP/MIDDLE1.png</location>
+		</link>
+		<link>
+			<name>src/MIDDLE2.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/UNF MAP/MIDDLE2.png</location>
+		</link>
+		<link>
+			<name>src/RIGHT_STILL.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/CHARACTER/RIGHT_STILL.png</location>
+		</link>
+		<link>
+			<name>src/RIGHT_WALKING1.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/CHARACTER/RIGHT_WALKING1.png</location>
+		</link>
+		<link>
+			<name>src/RIGHT_WALKING2.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/CHARACTER/RIGHT_WALKING2.png</location>
+		</link>
+		<link>
+			<name>src/STUDENTHALL1_RESIZED.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/UNF MAP/STUDENTHALL1_RESIZED.png</location>
+		</link>
+		<link>
+			<name>src/STUDENTHALL2_RESIZED.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/UNF MAP/STUDENTHALL2_RESIZED.png</location>
+		</link>
+		<link>
+			<name>src/Student_Hall_2ndFloorHALLWAY1.png</name>
+			<type>1</type>
+			<location>C:/Users/juand/Pictures/JOURNEY TO JAVA/UNF MAP/Student_Hall_2ndFloorHALLWAY1.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
